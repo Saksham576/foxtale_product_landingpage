@@ -1,1 +1,0 @@
-# foxtale_product_landingpage
